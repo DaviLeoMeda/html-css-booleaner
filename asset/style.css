@@ -18,3 +18,19 @@ header{
     position: absolute;
     bottom: 1px;
 }
+
+h1{
+    font-size: 50px;
+}
+
+section{
+    margin-top: 10px;
+}
+
+#Blue{
+    color: blue;
+}
+
+.note{
+    font-size: 10px;
+}
