@@ -42,3 +42,16 @@ section{
 ul{
     margin: 1em;
 }
+
+thead{
+    background-color: blue;
+    color: white;
+}
+
+.spazio{
+    width: 30%;
+}
+
+.colore{
+    background-color: lightblue;
+}
