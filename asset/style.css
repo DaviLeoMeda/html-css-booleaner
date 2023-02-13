@@ -12,6 +12,10 @@ header{
     height: 100px;
 }
 
+main{
+    margin:0 20%;
+}
+
 #logoboolean{
     height: 50px;
     border-bottom: 10px;
@@ -33,4 +37,8 @@ section{
 
 .note{
     font-size: 10px;
+}
+
+ul{
+    margin: 1em;
 }
