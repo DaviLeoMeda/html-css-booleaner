@@ -1,8 +1,20 @@
+/* Generale per azzerare le impostazioni browser */
+
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
+
+/* Margini corpo centrale */
+
+main, footer{
+    margin:0 15%;
+}
+
+/* Inizio opzioni specifiche */
+
+/* Parte Iniziale */
 
 header{
     background-size: 30%;
@@ -12,9 +24,6 @@ header{
     height: 100px;
 }
 
-main{
-    margin:0 20%;
-}
 
 #logoboolean{
     height: 50px;
@@ -23,12 +32,14 @@ main{
     bottom: 1px;
 }
 
+/* Parte centrale */
+
 h1{
-    font-size: 50px;
+    font-size: 45px;
 }
 
 section{
-    margin-top: 10px;
+    margin-top: 30px;
 }
 
 #Blue{
@@ -54,4 +65,10 @@ thead{
 
 .colore{
     background-color: lightblue;
+}
+
+/* Finale con foto */
+
+footer{
+    margin-top: 50px;
 }
