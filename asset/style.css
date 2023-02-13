@@ -8,7 +8,7 @@
 
 /* Margini corpo centrale */
 
-div>img,main, footer{
+header img,main, footer{
     margin:0 15%;
 }
 
